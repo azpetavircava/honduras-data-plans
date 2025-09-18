@@ -61,3 +61,10 @@ layout: default
 
 　　但如果你珍惜时间、讨厌繁琐，或者设备已经支持eSIM，那么提前安排一个数字套餐，或许能让你更从容地开始探索这个中美洲的宝藏之国。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Honduras SIM 卡购买与激活指南](https://faciylike.github.io/honduras-sim-guides)
